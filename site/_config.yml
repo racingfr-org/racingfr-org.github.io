@@ -30,7 +30,8 @@ twitter_username: jekyllrb
 github_username:  racingfr-org
 
 # Build settings
-theme: jekyll-agency
+remote_theme: raviriley/agency-jekyll-theme
+
 plugins:
   - jekyll-feed
 
